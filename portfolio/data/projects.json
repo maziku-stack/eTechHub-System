@@ -1,0 +1,5 @@
+[
+  {"name":"eTechHub System","description":"Company resource management platform (Django, React, PostgreSQL).","repo":"https://github.com/maziku-stack/eTechHub-system"},
+  {"name":"eSportApp","description":"Mobile app (Flutter, Firebase) with ML model integration for match prediction.","repo":"https://github.com/maziku-stack/bin.git"},
+  {"name":"Village Store System","description":"Platform to track village resources (Django, React, PostgreSQL).","repo":""}
+]
